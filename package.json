@@ -1,0 +1,15 @@
+{
+  "name": "elliptic",
+  "version": "1.0.0",
+  "description": "elliptic",
+  "main": "sample.js",
+  "scripts": {
+    "dev": "node sample.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elliptic": "^6.5.4"
+  }
+}
